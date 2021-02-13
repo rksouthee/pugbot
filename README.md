@@ -1,3 +1,5 @@
+This bot no longer works and has been replaced, please don't use this.
+
 # Discord PUG Bot
 
 PUG Bot for https://discordapp.com
